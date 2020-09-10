@@ -1,0 +1,29 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "acb43049-8ccc-4fb1-912f-a02fffb8ba8d",
+    "-type": "DisplayList",
+    "children": [{
+      "-id": "cbfb1eda-d8e6-4f61-ade2-ad8b0d8d3801",
+      "-type": "Image",
+      "children": [],
+      "variableName": "scene4",
+      "variableField": false,
+      "x": 399.9999694824219,
+      "y": 324.79840087890625,
+      "textureKey": "textures",
+      "textureFrame": "scene4"
+    }]
+  },
+  "groups": {
+    "-id": "b401d7f2-29ea-4dc3-bb61-33b88fc07c87",
+    "-type": "Groups",
+    "children": []
+  },
+  "snapWidth": 1200,
+  "snapHeight": 1200,
+  "borderHeight": 640,
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene4"
+}

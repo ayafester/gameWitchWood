@@ -1,0 +1,57 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene2",
+      "url": "assets/scenes/Scene2.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene3",
+      "url": "assets/scenes/Scene3.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene4",
+      "url": "assets/scenes/Scene4.js"
+    },
+    {
+      "type": "animation",
+      "key": "animation2",
+      "url": "assets/animation2.json"
+    },
+    {
+      "type": "animation",
+      "key": "animation21",
+      "url": "assets/animation2.json"
+    },
+    {
+      "type": "audio",
+      "key": "audio",
+      "url": ["assets/audio.mp3"]
+    }
+  ]},
+  "meta": {
+    "generated": "1598977366022",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}

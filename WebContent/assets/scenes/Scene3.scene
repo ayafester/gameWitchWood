@@ -1,0 +1,77 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "a4602859-16b5-47f2-ab8a-b1eb888f35e0",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "8564ba5b-292b-4510-b1c1-c6f20ba5fc41",
+        "-type": "Image",
+        "children": [],
+        "variableName": "szad",
+        "variableField": true,
+        "x": 295.9552001953125,
+        "y": 475.31805419921875,
+        "scaleX": 0.25224828720092773,
+        "scaleY": 0.1825498789548874,
+        "textureKey": "textures",
+        "textureFrame": "szad"
+      },
+      {
+        "-id": "34bd4d94-2a6b-40a6-9eeb-86f4d34bf559",
+        "-type": "Image",
+        "children": [],
+        "variableName": "pole",
+        "variableField": true,
+        "x": 370.130126953125,
+        "y": 108.05938720703125,
+        "textureKey": "textures",
+        "textureFrame": "pole"
+      },
+      {
+        "-id": "240f6e98-9ec6-4a92-ac37-7de4f3323f25",
+        "-type": "Image",
+        "children": [],
+        "variableName": "obs1",
+        "variableField": true,
+        "x": 565.853759765625,
+        "y": 333.6393127441406,
+        "textureKey": "textures",
+        "textureFrame": "obs1"
+      },
+      {
+        "-id": "236a2913-3b7e-4584-985a-d9962f1a98a3",
+        "-type": "Image",
+        "children": [],
+        "variableName": "scene3",
+        "variableField": true,
+        "x": 402.01092529296875,
+        "y": 321.6562194824219,
+        "textureKey": "textures",
+        "textureFrame": "scene3"
+      },
+      {
+        "-id": "8eea7fee-4c21-40c6-9c44-ceb31e8aca16",
+        "-type": "Image",
+        "children": [],
+        "variableName": "szad_1",
+        "variableField": true,
+        "x": 299.2349853515625,
+        "y": 413.19488525390625,
+        "scaleX": 0.2905082702636719,
+        "scaleY": 0.30426323413848877,
+        "textureKey": "textures",
+        "textureFrame": "szad"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "68b3b1bd-662a-4445-aec7-9aa90ac9d51f",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderHeight": 640,
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene3"
+}

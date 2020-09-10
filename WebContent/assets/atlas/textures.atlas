@@ -1,0 +1,994 @@
+{
+  "version": 3,
+  "files": [
+    "Design/scene1.png",
+    "Design/scene1button.png",
+    "Design/scene2.png",
+    "Design/scene2button.png",
+    "Design/scene3.png",
+    "Design/szad.png",
+    "Design/fir-tree.png",
+    "Design/house.png",
+    "Design/kust.png",
+    "Design/kust2.png",
+    "Design/lamp.png",
+    "Design/stone.png",
+    "Design/stroller.png",
+    "Design/stump.png",
+    "Design/tree.png",
+    "Design/trees2.png",
+    "Design/treess.png",
+    "Design/elements/potion1/elem1.png",
+    "Design/elements/potion1/elem2.png",
+    "Design/elements/potion1/elem3.png",
+    "Design/elements/potion1/elem4.png",
+    "Design/elements/potion1/elem5.png",
+    "Design/pole.png",
+    "Design/anim/anfas1.png",
+    "Design/anim/anfas2.png",
+    "Design/anim/bokSleva1.png",
+    "Design/anim/bokSleva2.png",
+    "Design/anim/bokSprava1.png",
+    "Design/anim/bokSprava2.png",
+    "Design/anim/zad2.png",
+    "Design/anim/zad1.png",
+    "Design/elements/potion2/elems1.png",
+    "Design/elements/potion2/elems2.png",
+    "Design/elements/potion2/elems3.png",
+    "Design/elements/potion2/elems4.png",
+    "Design/scene4.png",
+    "Design/text.png",
+    "Design/final.png",
+    "Design/buttonHome.png",
+    "Design/finalButton.png",
+    "Design/butButton.png"
+  ],
+  "settings": {
+    "pot": false,
+    "paddingX": 2,
+    "paddingY": 2,
+    "edgePadding": true,
+    "duplicatePadding": false,
+    "rotation": false,
+    "minWidth": 16,
+    "minHeight": 16,
+    "maxWidth": 2002,
+    "maxHeight": 1602,
+    "square": false,
+    "stripWhitespaceX": true,
+    "stripWhitespaceY": true,
+    "alphaThreshold": 0,
+    "filterMin": "Nearest",
+    "filterMag": "Nearest",
+    "wrapX": "ClampToEdge",
+    "wrapY": "ClampToEdge",
+    "format": "RGBA8888",
+    "alias": true,
+    "outputFormat": "png",
+    "jpegQuality": 0.8999999761581421,
+    "ignoreBlankImages": true,
+    "fast": false,
+    "debug": false,
+    "silent": false,
+    "combineSubdirectories": false,
+    "flattenPaths": false,
+    "premultiplyAlpha": false,
+    "useIndexes": false,
+    "bleed": true,
+    "limitMemory": false,
+    "grid": false,
+    "atlasExtension": ".atlas",
+    "multiatlas": true,
+    "includeNumberOfFolders": 0
+  },
+  "pages": [
+    {"frames": [
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1876,
+          "y": 356,
+          "w": 122,
+          "h": 304
+        },
+        "spriteSourceSize": {
+          "x": 26,
+          "y": 0,
+          "w": 122,
+          "h": 304
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "anfas1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1650,
+          "y": 21,
+          "w": 99,
+          "h": 61
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 99,
+          "h": 61
+        },
+        "sourceSize": {
+          "w": 99,
+          "h": 61
+        },
+        "name": "butButton",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 973,
+          "y": 22,
+          "w": 93,
+          "h": 30
+        },
+        "spriteSourceSize": {
+          "x": 7,
+          "y": 0,
+          "w": 93,
+          "h": 30
+        },
+        "sourceSize": {
+          "w": 106,
+          "h": 30
+        },
+        "name": "buttonHome",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1204,
+          "y": 713,
+          "w": 439,
+          "h": 887
+        },
+        "spriteSourceSize": {
+          "x": 30,
+          "y": 0,
+          "w": 439,
+          "h": 887
+        },
+        "sourceSize": {
+          "w": 502,
+          "h": 887
+        },
+        "name": "elem2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1645,
+          "y": 987,
+          "w": 313,
+          "h": 613
+        },
+        "spriteSourceSize": {
+          "x": 30,
+          "y": 0,
+          "w": 313,
+          "h": 613
+        },
+        "sourceSize": {
+          "w": 349,
+          "h": 617
+        },
+        "name": "elem3",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 14,
+          "w": 662,
+          "h": 524
+        },
+        "spriteSourceSize": {
+          "x": 68,
+          "y": 0,
+          "w": 662,
+          "h": 524
+        },
+        "sourceSize": {
+          "w": 730,
+          "h": 524
+        },
+        "name": "elem4",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 973,
+          "y": 54,
+          "w": 214,
+          "h": 120
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 214,
+          "h": 120
+        },
+        "sourceSize": {
+          "w": 214,
+          "h": 130
+        },
+        "name": "elems1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1372,
+          "y": 27,
+          "w": 146,
+          "h": 126
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 146,
+          "h": 126
+        },
+        "sourceSize": {
+          "w": 146,
+          "h": 126
+        },
+        "name": "elems2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1588,
+          "y": 445,
+          "w": 286,
+          "h": 215
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 286,
+          "h": 215
+        },
+        "sourceSize": {
+          "w": 286,
+          "h": 215
+        },
+        "name": "elems3",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1246,
+          "y": 155,
+          "w": 202,
+          "h": 329
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 202,
+          "h": 329
+        },
+        "sourceSize": {
+          "w": 202,
+          "h": 329
+        },
+        "name": "elems4",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1785,
+          "y": 113,
+          "w": 155,
+          "h": 241
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 155,
+          "h": 241
+        },
+        "sourceSize": {
+          "w": 157,
+          "h": 241
+        },
+        "name": "final",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 666,
+          "y": 25,
+          "w": 305,
+          "h": 149
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 305,
+          "h": 149
+        },
+        "sourceSize": {
+          "w": 305,
+          "h": 149
+        },
+        "name": "finalButton",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1246,
+          "y": 486,
+          "w": 324,
+          "h": 225
+        },
+        "spriteSourceSize": {
+          "x": 2,
+          "y": 0,
+          "w": 324,
+          "h": 225
+        },
+        "sourceSize": {
+          "w": 326,
+          "h": 227
+        },
+        "name": "fir-tree",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1645,
+          "y": 662,
+          "w": 337,
+          "h": 323
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 337,
+          "h": 323
+        },
+        "sourceSize": {
+          "w": 338,
+          "h": 323
+        },
+        "name": "house",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1520,
+          "y": 81,
+          "w": 127,
+          "h": 59
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 127,
+          "h": 59
+        },
+        "sourceSize": {
+          "w": 127,
+          "h": 59
+        },
+        "name": "kust",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1588,
+          "y": 142,
+          "w": 181,
+          "h": 89
+        },
+        "spriteSourceSize": {
+          "x": 11,
+          "y": 0,
+          "w": 181,
+          "h": 89
+        },
+        "sourceSize": {
+          "w": 192,
+          "h": 90
+        },
+        "name": "kust2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1960,
+          "y": 1553,
+          "w": 32,
+          "h": 47
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 47
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 47
+        },
+        "name": "lamp",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 540,
+          "w": 1200,
+          "h": 1060
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 1060
+        },
+        "sourceSize": {
+          "w": 1200,
+          "h": 1060
+        },
+        "name": "pole",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1520,
+          "y": 24,
+          "w": 128,
+          "h": 55
+        },
+        "spriteSourceSize": {
+          "x": 5,
+          "y": 16,
+          "w": 128,
+          "h": 55
+        },
+        "sourceSize": {
+          "w": 137,
+          "h": 81
+        },
+        "name": "scene1button",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1572,
+          "y": 693,
+          "w": 71,
+          "h": 18
+        },
+        "spriteSourceSize": {
+          "x": 14,
+          "y": 8,
+          "w": 71,
+          "h": 18
+        },
+        "sourceSize": {
+          "w": 99,
+          "h": 31
+        },
+        "name": "scene2button",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1649,
+          "y": 84,
+          "w": 73,
+          "h": 56
+        },
+        "spriteSourceSize": {
+          "x": 9,
+          "y": 0,
+          "w": 73,
+          "h": 56
+        },
+        "sourceSize": {
+          "w": 82,
+          "h": 56
+        },
+        "name": "stone",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1785,
+          "y": 360,
+          "w": 89,
+          "h": 83
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 4,
+          "w": 89,
+          "h": 83
+        },
+        "sourceSize": {
+          "w": 89,
+          "h": 91
+        },
+        "name": "stroller",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1204,
+          "y": 662,
+          "w": 29,
+          "h": 49
+        },
+        "spriteSourceSize": {
+          "x": 9,
+          "y": 0,
+          "w": 29,
+          "h": 49
+        },
+        "sourceSize": {
+          "w": 47,
+          "h": 49
+        },
+        "name": "stump",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1450,
+          "y": 166,
+          "w": 136,
+          "h": 318
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 136,
+          "h": 318
+        },
+        "sourceSize": {
+          "w": 173,
+          "h": 329
+        },
+        "name": "szad",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 666,
+          "y": 176,
+          "w": 578,
+          "h": 362
+        },
+        "spriteSourceSize": {
+          "x": 101,
+          "y": 85,
+          "w": 578,
+          "h": 362
+        },
+        "sourceSize": {
+          "w": 800,
+          "h": 640
+        },
+        "name": "text",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1588,
+          "y": 233,
+          "w": 195,
+          "h": 210
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 195,
+          "h": 210
+        },
+        "sourceSize": {
+          "w": 195,
+          "h": 210
+        },
+        "name": "trees2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1189,
+          "y": 2,
+          "w": 181,
+          "h": 151
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 181,
+          "h": 151
+        },
+        "sourceSize": {
+          "w": 197,
+          "h": 151
+        },
+        "name": "treess",
+        "regionIndex": -1
+      }
+    ]},
+    {"frames": [
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1606,
+          "y": 983,
+          "w": 119,
+          "h": 301
+        },
+        "spriteSourceSize": {
+          "x": 28,
+          "y": 0,
+          "w": 119,
+          "h": 301
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "anfas2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 255,
+          "y": 13,
+          "w": 100,
+          "h": 297
+        },
+        "spriteSourceSize": {
+          "x": 27,
+          "y": 0,
+          "w": 100,
+          "h": 297
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "bokSleva1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1606,
+          "y": 684,
+          "w": 91,
+          "h": 297
+        },
+        "spriteSourceSize": {
+          "x": 21,
+          "y": 0,
+          "w": 91,
+          "h": 297
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "bokSleva2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1730,
+          "y": 1296,
+          "w": 110,
+          "h": 298
+        },
+        "spriteSourceSize": {
+          "x": 36,
+          "y": 0,
+          "w": 110,
+          "h": 298
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "bokSprava1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 127,
+          "y": 12,
+          "w": 126,
+          "h": 298
+        },
+        "spriteSourceSize": {
+          "x": 20,
+          "y": 0,
+          "w": 126,
+          "h": 298
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "bokSprava2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 123,
+          "h": 308
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 123,
+          "h": 308
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "zad1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1606,
+          "y": 1286,
+          "w": 122,
+          "h": 308
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 122,
+          "h": 308
+        },
+        "sourceSize": {
+          "w": 153,
+          "h": 308
+        },
+        "name": "zad2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 954,
+          "w": 800,
+          "h": 640
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 800,
+          "h": 640
+        },
+        "sourceSize": {
+          "w": 800,
+          "h": 640
+        },
+        "name": "scene1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 312,
+          "w": 800,
+          "h": 640
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 800,
+          "h": 640
+        },
+        "sourceSize": {
+          "w": 800,
+          "h": 640
+        },
+        "name": "scene2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 804,
+          "y": 954,
+          "w": 800,
+          "h": 640
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 800,
+          "h": 640
+        },
+        "sourceSize": {
+          "w": 800,
+          "h": 640
+        },
+        "name": "scene3",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 804,
+          "y": 312,
+          "w": 800,
+          "h": 640
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 800,
+          "h": 640
+        },
+        "sourceSize": {
+          "w": 800,
+          "h": 640
+        },
+        "name": "scene4",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1842,
+          "y": 1433,
+          "w": 100,
+          "h": 161
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 161
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 161
+        },
+        "name": "tree",
+        "regionIndex": -1
+      }
+    ]},
+    {"frames": [
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 495,
+          "h": 760
+        },
+        "spriteSourceSize": {
+          "x": 46,
+          "y": 0,
+          "w": 495,
+          "h": 760
+        },
+        "sourceSize": {
+          "w": 573,
+          "h": 760
+        },
+        "name": "elem1",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 499,
+          "y": 24,
+          "w": 456,
+          "h": 738
+        },
+        "spriteSourceSize": {
+          "x": 25,
+          "y": 0,
+          "w": 456,
+          "h": 738
+        },
+        "sourceSize": {
+          "w": 481,
+          "h": 738
+        },
+        "name": "elem5",
+        "regionIndex": -1
+      }
+    ]}
+  ]
+}

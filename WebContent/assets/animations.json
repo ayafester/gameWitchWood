@@ -1,0 +1,64 @@
+{
+  "anims": [
+    {
+      "key": "walkZad",
+      "frameRate": 2,
+      "frames": [
+        {
+          "key": "textures",
+          "frame": "zad1"
+        },
+        {
+          "key": "textures",
+          "frame": "zad2"
+        }
+      ]
+    },
+    {
+      "key": "walkAnfas",
+      "frameRate": 2,
+      "frames": [
+        {
+          "key": "textures",
+          "frame": "anfas1"
+        },
+        {
+          "key": "textures",
+          "frame": "anfas2"
+        }
+      ]
+    },
+    {
+      "key": "walkBokSleva",
+      "frameRate": 2,
+      "frames": [
+        {
+          "key": "textures",
+          "frame": "bokSleva1"
+        },
+        {
+          "key": "textures",
+          "frame": "bokSleva2"
+        }
+      ]
+    },
+    {
+      "key": "walkBokSprava",
+      "frameRate": 2,
+      "frames": [
+        {
+          "key": "textures",
+          "frame": "bokSprava1"
+        },
+        {
+          "key": "textures",
+          "frame": "bokSprava2"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}

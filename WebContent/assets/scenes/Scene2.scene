@@ -1,0 +1,65 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "2202f6c9-6a92-4eb8-9272-a7737d3e96fa",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "ffca01a1-e985-4788-9775-16cfc87494a8",
+        "-type": "Image",
+        "children": [],
+        "variableName": "scene2",
+        "variableField": false,
+        "x": 399.9993896484375,
+        "y": 422.82623291015625,
+        "originY": 0.6541553735733032,
+        "textureKey": "textures",
+        "textureFrame": "scene2"
+      },
+      {
+        "-id": "e018a47c-2343-427f-b654-4b250ac4f969",
+        "-type": "Image",
+        "children": [],
+        "variableName": "scene2button",
+        "variableField": true,
+        "x": 261.9936218261719,
+        "y": 416.5242614746094,
+        "angle": 2.9814612865448,
+        "textureKey": "textures",
+        "textureFrame": "scene2button"
+      },
+      {
+        "-id": "b37a5985-60b2-47db-8a87-d2e2a3e33677",
+        "-type": "Image",
+        "children": [],
+        "variableName": "scene2button_1",
+        "variableField": true,
+        "x": 529.5839233398438,
+        "y": 420.5650329589844,
+        "angle": -0.659692108631134,
+        "textureKey": "textures",
+        "textureFrame": "scene2button"
+      },
+      {
+        "-id": "5fac6f68-ef4a-4a4d-a3d9-cf0167854eea",
+        "-type": "Image",
+        "children": [],
+        "variableName": "text",
+        "variableField": false,
+        "x": 403.030029296875,
+        "y": 318.85198974609375,
+        "textureKey": "textures",
+        "textureFrame": "text"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "f5215dd3-b140-4dfd-bbc4-d5b696c649bc",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderHeight": 640,
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene2"
+}

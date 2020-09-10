@@ -1,0 +1,44 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "4f431611-be14-4d73-89e2-218c687bbaa7",
+        "-type": "Image",
+        "children": [],
+        "variableName": "scene1",
+        "variableField": true,
+        "x": 399.7909240722656,
+        "y": 319.56915283203125,
+        "textureKey": "textures",
+        "textureFrame": "scene1"
+      },
+      {
+        "-id": "01c6706d-92fa-4723-96a0-a3b9d9083c8f",
+        "-type": "Image",
+        "children": [],
+        "variableName": "scene1button",
+        "variableField": true,
+        "x": 456.36383056640625,
+        "y": 366.2347412109375,
+        "angle": 0.9462790489196777,
+        "textureKey": "textures",
+        "textureFrame": "scene1button"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": []
+  },
+  "backgroundColor": "192,192,192",
+  "foregroundColor": "192,192,192",
+  "borderHeight": 640,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene1"
+}
